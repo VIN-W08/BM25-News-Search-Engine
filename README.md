@@ -1,4 +1,4 @@
-# BM25-News-Search-Engine
+# BM25 News Search Engine
 BM25 News Search Engine is a search engine that uses Okapi BM25 ranking function to search through news with reference to the inputted query.
 
 ## Data
